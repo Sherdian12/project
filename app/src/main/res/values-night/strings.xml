@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_panjang">Panjang</string>
+    <string name="text_lebar">lebar</string>
+    <string name="text_tinggi">tinggi</string>
+    <string name="radio_text_luas">luas</string>
+    <string name="button_text_hitung">hitung</string>
+    <string name="button_text_reset">reset</string>
+</resources>
